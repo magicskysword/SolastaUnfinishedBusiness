@@ -210,23 +210,23 @@ ModUi/&EnableRangerRoving2024=在 6 级时启用<color=#D89555>漫游</color> <i
 ModUi/&EnableRangerSpellCastingAtLevel1=在 1 级（而非 2 级）启用<color=#D89555>施法</color>
 ModUi/&EnableRangerTireless2024=在 10 级时启用<color=#D89555>不知疲倦</color>来替代<color=#D89555>隐藏在众目睽睽之下</color> <i><color=#F0DAA0>[获得临时生命值]</color></i>
 ModUi/&EnableRelearnSpells=可以选择已从其他来源学到的戏法或法术
-ModUi/&EnableRespecAction=休息操作后启用 <color=#D89555>RESPEC</color> <i><color=#F0DAA0>[在多人游戏会话期间不要使用 RESPEC]</color></i>
+ModUi/&EnableRespecAction=休息后启用<color=#D89555>洗点</color> <i><color=#F0DAA0>[在多人游戏会话期间不要使用 洗点]</color></i>
 ModUi/&EnableRitualOnAllCasters2024=对所有施法者启用<color=#D89555>仪式</color>施法
 ModUi/&EnableRogueCunningStrike2024=在等级 5、11 和 14 时启用<color=#D89555>狡猾打击</color>、<color=#D89555>强化狡猾打击</color>和<color=#D89555>阴险打击</color> <i><color=#F0DAA0>[你放弃 1 个偷袭骰子以获得额外的命中效果]</color></i>
 ModUi/&EnableRogueFightingStyle=在第 2 级启用<color=#D89555>战斗风格</color>选择
 ModUi/&EnableRogueReliableTalent2024=将<color=#D89555>可靠天赋</color>设置为 7 级（而非 11 级）
 ModUi/&EnableRogueSlipperyMind2024=将 <color=#D89555>Slippery Mind</color> 与 5e 2024 版本交换<i><color=#F0DAA0>[除了智慧之外，你还获得了魅力豁免的熟练程度]</color></i>
 ModUi/&EnableRogueSteadyAim2024=在 3 级时启用<color=#D89555>稳定瞄准</color> <i><color=#F0DAA0>[如果您尚未移动，则奖励行动会在当前回合的下一次攻击掷骰中提供优势]</color></i>
-ModUi/&EnableRogueStrSaving=在<color=#D89555>狡猾/卑鄙的打击</color>上启用<b>Hoodlum</b> DEX 或 STR 修正
-ModUi/&EnableScimitarSpecialization=授予弯刀<color=#D89555>武器专长</color>
+ModUi/&EnableRogueStrSaving=在<color=#D89555>狡诈打击/阴险打击</color>上应用<b>游荡者</b>敏捷或力量调整值
+ModUi/&EnableScimitarSpecialization=授予弯刀<color=#D89555>武器专精</color>
 ModUi/&EnableSignatureSpellsRelearn=每次长时间休息时都可准备<color=#D89555>招牌法术</color><i><color=#F0DAA0>[而不是在 20 级时准备一次]</color></i>
-ModUi/&EnableSorcererArcaneApotheosis2024=在 20 级时启用<color=#D89555>奥术神化</color>来替代<color=#D89555>魔法恢复</color>
-ModUi/&EnableSorcererInnateSorcery2024=在 1 级和 7 级时启用<color=#D89555>天生巫术</color>和<color=#D89555>巫术化身</color>
+ModUi/&EnableSorcererArcaneApotheosis2024=在 20 级时启用<color=#D89555>奥术化神</color>来替代<color=#D89555>术法恢复</color>
+ModUi/&EnableSorcererInnateSorcery2024=在 1 级和 7 级时启用<color=#D89555>天生术法</color>和<color=#D89555>术法化身</color>
 ModUi/&EnableSorcererMagicalGuidance=在 5 级时启用<color=#D89555>魔法指引</color>
 ModUi/&EnableSorcererMetamagic2024=在 2 级（而非 3 级）启用 <color=#D89555>Metamagic</color>
 ModUi/&EnableSorcererOrigin2024=在 3 级（而非 1 级）启用 <color=#D89555>Origins</color>
 ModUi/&EnableSorcererQuickenedAction=启用<color=#D89555>加速法术</color>动作以允许施放应用了加速超魔法的主要动作法术
-ModUi/&EnableSorcererSorcerousRestoration2024=在第 5 级启用<color=#D89555>魔法恢复</color>
+ModUi/&EnableSorcererSorcerousRestoration2024=在第 5 级启用<color=#D89555>术法恢复</color>
 ModUi/&EnableSortingDungeonMakerAssets=在 Dungeon Maker 编辑器上启用资产排序
 ModUi/&EnableSpeech=在自定义战役中启用语音<i><color=#F0DAA0>[仅限旁白和英雄]</color></i>
 ModUi/&EnableSpeechActorHelp=• 选择演员
